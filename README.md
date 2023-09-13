@@ -12,6 +12,7 @@
 ![image](https://github.com/AbhayWalia/ECE444-F2023-Assignment1/assets/94670623/63cb49fe-fc3b-44db-8314-5d1971cb7646)
 
 ## Activity 5:
+![image](https://github.com/AbhayWalia/ECE444-F2023-Assignment1/assets/94670623/0473023f-0f89-47b2-819d-a900d086cd9f)
 ![image](https://github.com/AbhayWalia/ECE444-F2023-Assignment1/assets/94670623/8b314b6e-5c6e-456f-ac28-a32535492207)
 ![image](https://github.com/AbhayWalia/ECE444-F2023-Assignment1/assets/94670623/5fa3ac20-7ecf-48f7-b586-08eee67b94eb)
 
