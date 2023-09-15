@@ -1,6 +1,6 @@
-import utils
+from utils import utils
 
-utilsObj = utils.utils
+utilsObj = utils
 
 print(utilsObj.reversed(123456789))
 print(utilsObj.reversed(123.4569))
